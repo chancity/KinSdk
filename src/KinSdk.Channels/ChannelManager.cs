@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Linq;
 using KinSdk.ChannelManager.Models;
@@ -29,7 +28,6 @@ namespace KinSdk.ChannelManager
                 return _channels.Add(new Channel(seed));
             }
         }
-
         public bool RemoveChannel(string seed)
         {
             lock (_lockObject)
@@ -38,13 +36,12 @@ namespace KinSdk.ChannelManager
                 return _channels.Remove(channel);
             }
         }
-
-        public bool ReleaseChannel(string seed)
+        public bool SetChannelState(string seed, ChannelState state)
         {
             lock (_lockObject)
             {
                 var channel = _channels.SingleOrDefault(x => x.Seed == seed);
-                channel?.SetState(ChannelState.Free);
+                channel?.SetState(state);
                 return true;
             }
         }
@@ -54,7 +51,6 @@ namespace KinSdk.ChannelManager
             channel.SetState(ChannelState.Locked);
             return channel.Seed;
         }
-
         public string GetFreeChannel()
         {
             var channel = _GetFreeChannel();
@@ -83,7 +79,6 @@ namespace KinSdk.ChannelManager
 
             return availableChannels[GetRandomNumber(0, availableChannels.Count)];
         }
-
         private static int GetRandomNumber(int min, int max)
         {
             lock (GetRandom)
