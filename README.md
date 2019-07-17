@@ -105,9 +105,7 @@ You are responsible for any data charges when you use the Services including dat
 ### 18. Ownership
 
 #### We, or our affiliates and licensors as applicable, retain all ownership and intellectual property rights in and to:
-
-- the Services; and 
-- all modifications, improvements, customizations, updates, enhancements, derivative works, translations and adaptations to the foregoing.
+(a) the Services; and (b) all modifications, improvements, customizations, updates, enhancements, derivative works, translations and adaptations to the foregoing.
 
 ### 19. Copyright (DMCA)
 
