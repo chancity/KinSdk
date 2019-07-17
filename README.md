@@ -2,9 +2,9 @@
 
 ## Version 1.0 06 July 2019 (GDPR COMPLIANT)
 
-1.  Thank you for signing up to use the Trackin application (the "app", "Platform", "Website", "Trackin Application" or the "Trackin Platform"), and related products and services (together, we'll call these the "Services") of Trackin Network Ltd. ("Trackin Network Ltd", "Trackin", "us", "we" or "our"), and any of our affiliates with authorized links to this Agreement. The term "you" refers to the natural person accessing or otherwise using our Services.
+- Thank you for signing up to use the Trackin application (the "app", "Platform", "Website", "Trackin Application" or the "Trackin Platform"), and related products and services (together, we'll call these the "Services") of Trackin Network Ltd. ("Trackin Network Ltd", "Trackin", "us", "we" or "our"), and any of our affiliates with authorized links to this Agreement. The term "you" refers to the natural person accessing or otherwise using our Services.
 
-2.  This Terms of Service Agreement (or "Terms" for short) describes the rules of our relationship with you and is a legal agreement, so please read it carefully.
+- This Terms of Service Agreement (or "Terms" for short) describes the rules of our relationship with you and is a legal agreement, so please read it carefully.
 
 3.  Trackin can be used across multiple platforms including website, mobile app and consoles.
 
