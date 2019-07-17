@@ -10,15 +10,15 @@
 
 4. By using the app or website or platform you agree to be bound by the terms of this agreement. Use includes using the app or website in any capacity, including as an unregistered user, downloading the app, using the website and registering as a Trackin user. By using Trackin as described or in any other manner that constitutes use of the platform you represent that you have read, understand, and agree to be bound by these terms. If you do not agree with these terms, please do not use these services.
 
-5. Arbitration Agreement
+### 5. Arbitration Agreement
 
 We wanted to let you know that these terms include an arbitration agreement( also known as alternative dispute resolution agreement) which will, with limited exceptions, require disputes between us to be submitted to binding and final arbitration. unless you opt out of the arbitration agreement: (1) you will only be permitted to pursue claims and seek relief against us on an individual basis, not as a plaintiff or class member in any class, collective or representative action or proceeding; and (2) you are waiving your right to seek relief in a court of law and to have a jury trial on your claims. We also wanted to let you know that the Trackin platform contains features and functionalities that may provide you with access to opportunities to earn and spend kin. You acknowledge and agree that some of these features and functionalities are still under development and have been released to you as a user with full disclosure that at these early stages of development you may lose access to your wallet and any kin that you have earned.
 
-6.  Kin and the Hosting of Your Kin Wallet
+### 6. Kin and the Hosting of Your Kin Wallet
 
 Kin can be described as a digital currency like Bitcoin or Ether which has value on the openmarket. Your Kin wallet holds the Kin you have been rewarded through gameplay or by other means. For the initial Beta release of Trackin, Trackin Network Ltd will host your Kin Wallet and as such have influence over the Kin in your wallet in order for us to enact your instructions which could include converting all or some of your Kin into Gems if you choose or transferring your Kin to another wallet that you specify. In due course Trackin will replace hosted Kin wallets with user controlled wallets where you will have sole access and control of the Kin in your Trackin Kin Wallet. You acknowledge that anyone who has access to your unlocked device, computer or console or any other device may be able to spend Kin that you have stored within your Kin wallet.
 
-7.  Gems
+### 7. Gems
 
 Gems are the rewards points of the Trackin Platform, they are non-refundable, non-transferable and do not hold any monetary value. Trackin users are able to exchange Kin they have been rewarded or received via other platform activities for Gems. Trackin Network Ltd will provide opportunities to redeem your Gems for items such as gift cards. 500 Gems = $5 Gift Card. These redemption opportunities may change, be put on hold or withdrawn at anytime without warning.
 
