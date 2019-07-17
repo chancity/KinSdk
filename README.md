@@ -86,9 +86,9 @@ Your privacy matters to us. You can learn more about how we handle your informat
 
 ### 16.  Your Account
 
-- You are responsible for anything that happens in your account, including your wallet, so please keep it secure by keeping a strong password on your mobile device, computer, console or any other device (all collectively regarded as Devices). You acknowledge that while logged in be it on mobile or any other device your information is available to anyone who has access to your Device(s), it is your responsibility to ensure that access to your Trackin Kin Wallet, Gems and information is kept secure.
+You are responsible for anything that happens in your account, including your wallet, so please keep it secure by keeping a strong password on your mobile device, computer, console or any other device (all collectively regarded as Devices). You acknowledge that while logged in be it on mobile or any other device your information is available to anyone who has access to your Device(s), it is your responsibility to ensure that access to your Trackin Kin Wallet, Gems and information is kept secure.
 
-- Also, you agree that you will not:
+#### Also, you agree that you will not:
 
 - create another account if we've disabled one you had unless you have our written permission first;
 
@@ -108,9 +108,9 @@ We, or our affiliates and licensors as applicable, retain all ownership and inte
 
 ### 19. Copyright (DMCA)
 
-1. Our policy allows copyright owners to request removal of any infringing materials and for the termination, in appropriate circumstances, of users of our Services who are repeat infringers of intellectual property rights, including copyrights.
+Our policy allows copyright owners to request removal of any infringing materials and for the termination, in appropriate circumstances, of users of our Services who are repeat infringers of intellectual property rights, including copyrights.
 
-2. If you believe that we, a partner or one of our users is using our Services to unlawfully infringe the copyright(s) in a work, and want to have the material removed, please provide the following information in writing to our Copyright Agent:
+#### If you believe that we, a partner or one of our users is using our Services to unlawfully infringe the copyright(s) in a work, and want to have the material removed, please provide the following information in writing to our Copyright Agent:
 
 - your physical or electronic signature
 
@@ -132,15 +132,15 @@ We, or our affiliates and licensors as applicable, retain all ownership and inte
 
 ### 20. Kin; Kin Wallet; Kin Earn and Spend Opportunities
 
-a. We facilitate your access to a decentralized blockchain ecosystem stewarded by d/b/a Kin Ecosystem (the "Kin Ecosystem", and such decentralized blockchain ecosystem, the "Ecosystem") and use of the native token within the Kin Ecosystem ("Kin").  You can find out more about Kin and the Ecosystem at the following website: www.kinecosystem.org
+  a. We facilitate your access to a decentralized blockchain ecosystem stewarded by d/b/a Kin Ecosystem (the "Kin Ecosystem", and such decentralized blockchain ecosystem, the "Ecosystem") and use of the native token within the Kin Ecosystem ("Kin").  You can find out more about Kin and the Ecosystem at the following website: www.kinecosystem.org
 
-b. You agree that: (1) you are using Kin at your own risk, on an as-is and where-is basis; (2) you will abide by any policies made available by the Ecosystem in respect of the Ecosystem; (3) we and any affiliates are not representing or warranting that Kin has any real monetary value; (4) we and any affiliates may discontinue the integration of Kin or the Ecosystem within the Trackin application at any time for any reason; and 5) we and our affiliates are not responsible for any Kin applications or opportunities developed by third parties in the broader ecosystem.
+  b. You agree that: (1) you are using Kin at your own risk, on an as-is and where-is basis; (2) you will abide by any policies made available by the Ecosystem in respect of the Ecosystem; (3) we and any affiliates are not representing or warranting that Kin has any real monetary value; (4) we and any affiliates may discontinue the integration of Kin or the Ecosystem within the Trackin application at any time for any reason; and 5) we and our affiliates are not responsible for any Kin applications or opportunities developed by third parties in the broader ecosystem.
 
-c. Kin Wallet.  We make available wallet services within the Trackin application for you to store Kin.  The wallet is accessible to any person that has access to your device. Accordingly, you acknowledge and agree that it is your responsibility to maintain the safety and security of your device, and that any person having access to your device may be able to access or spend your Kin or Gems.
+  c. Kin Wallet.  We make available wallet services within the Trackin application for you to store Kin.  The wallet is accessible to any person that has access to your device. Accordingly, you acknowledge and agree that it is your responsibility to maintain the safety and security of your device, and that any person having access to your device may be able to access or spend your Kin or Gems.
 
-d. Kin Earn and Spend Opportunities.  We make available to you within the Trackin application opportunities from us or third parties to earn or to spend Kin. While some of these opportunities will be integrated within the Trackin application and, accordingly, may appear as though they are part of the Trackin application, some of these opportunities may be from third parties and not us. While we may bring to your attention that an opportunity is made available by a third party, it is your responsibility to carefully review each opportunity.
+  d. Kin Earn and Spend Opportunities.  We make available to you within the Trackin application opportunities from us or third parties to earn or to spend Kin. While some of these opportunities will be integrated within the Trackin application and, accordingly, may appear as though they are part of the Trackin application, some of these opportunities may be from third parties and not us. While we may bring to your attention that an opportunity is made available by a third party, it is your responsibility to carefully review each opportunity.
 
-e. Irreversibility of Kin Transactions. You acknowledge that Kin transactions, including each time you spend or transfer Kin, are irreversible and that it is your sole responsibility to ensure you make each decision to spend or transfer Kin carefully.
+  e. Irreversibility of Kin Transactions. You acknowledge that Kin transactions, including each time you spend or transfer Kin, are irreversible and that it is your sole responsibility to ensure you make each decision to spend or transfer Kin carefully.
 
 ### 21. Third Party Services
 
@@ -148,11 +148,11 @@ If you use a service, feature or product offered by a third party (including tho
 
 ### 22. Modifying the Services and Termination
 
-a. We are always improving our Services and creating new ones. We may add or remove features, products or functionality, and we may also suspend or stop the Services at any time without notice.
+  a. We are always improving our Services and creating new ones. We may add or remove features, products or functionality, and we may also suspend or stop the Services at any time without notice.
 
-b. We can also terminate this Agreement or deactivate your account if we think you've violated these Terms or for any reason.
+  b. We can also terminate this Agreement or deactivate your account if we think you've violated these Terms or for any reason.
 
-c. We will not be liable to you for terminating this Agreement, including for termination of your account. No matter who ends this agreement, you and we will continue to be bound by Sections  (Rights You Give to Us), (Privacy), (Ownership), (Copyright), (Kin Ecosystem and Kin), (Third Party Services), (Modifying the Services and Termination), (Additional Terms for Specific Services), (Indemnity), (Disclaimers),  (Limitation of Liability), (Choice of Law & Exclusive Venue), (Resolution of Disputes), (Severability), and (Final Terms)
+  c. We will not be liable to you for terminating this Agreement, including for termination of your account. No matter who ends this agreement, you and we will continue to be bound by Sections  (Rights You Give to Us), (Privacy), (Ownership), (Copyright), (Kin Ecosystem and Kin), (Third Party Services), (Modifying the Services and Termination), (Additional Terms for Specific Services), (Indemnity), (Disclaimers),  (Limitation of Liability), (Choice of Law & Exclusive Venue), (Resolution of Disputes), (Severability), and (Final Terms)
 
 ### 23. Additional Terms for Specific Services
 
@@ -164,19 +164,19 @@ You agree to defend, indemnify and hold harmless us, our directors, officers, em
 
 ### 25. Disclaimers
 
-1. THE LAWS OF CERTAIN JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LEGAL WARRANTIES, CONDITIONS OR REPRESENTATIONS, INCLUDING LIMITATIONS OR EXCLUSIONS OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE FOLLOWING EXCLUSIONS OR LIMITATIONS IN THESE TERMS (INCLUDING THE FOLLOWING DISCLAIMERS) MAY NOT APPLY AND YOU MAY HAVE ADDITIONAL RIGHTS.
+- THE LAWS OF CERTAIN JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LEGAL WARRANTIES, CONDITIONS OR REPRESENTATIONS, INCLUDING LIMITATIONS OR EXCLUSIONS OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE FOLLOWING EXCLUSIONS OR LIMITATIONS IN THESE TERMS (INCLUDING THE FOLLOWING DISCLAIMERS) MAY NOT APPLY AND YOU MAY HAVE ADDITIONAL RIGHTS.
 
-2. THE SERVICES ARE PROVIDED "AS-IS" AND "AS AVAILABLE" AND TRACKIN NETWORK LTD (AND ITS SUPPLIERS) EXPRESSLY DISCLAIM ANY WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, QUIET ENJOYMENT, STABILITY, ACCURACY, OR NON INFRINGEMENT. TRACKIN NETWORK LTD (AND ITS SUPPLIERS) MAKE NO WARRANTY THAT THE SERVICES: (A) WILL MEET YOUR REQUIREMENTS; (B) WILL BE AVAILABLE ON AN UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE BASIS; OR (C) WILL BE ACCURATE, RELIABLE, COMPLETE, LEGAL, OR SAFE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSION MAY NOT APPLY TO YOU. Kinit GROUP IS NOT RESPONSIBLE FOR ANY THIRD PARTY CONDUCT ON ITS SERVICES.
+- THE SERVICES ARE PROVIDED "AS-IS" AND "AS AVAILABLE" AND TRACKIN NETWORK LTD (AND ITS SUPPLIERS) EXPRESSLY DISCLAIM ANY WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, QUIET ENJOYMENT, STABILITY, ACCURACY, OR NON INFRINGEMENT. TRACKIN NETWORK LTD (AND ITS SUPPLIERS) MAKE NO WARRANTY THAT THE SERVICES: (A) WILL MEET YOUR REQUIREMENTS; (B) WILL BE AVAILABLE ON AN UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE BASIS; OR (C) WILL BE ACCURATE, RELIABLE, COMPLETE, LEGAL, OR SAFE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSION MAY NOT APPLY TO YOU. Kinit GROUP IS NOT RESPONSIBLE FOR ANY THIRD PARTY CONDUCT ON ITS SERVICES.
 
-3. You hereby irrevocably and unconditionally release and forever discharge TRACKIN NETWORK LTD from any and all claims, demands, and rights of action, whether now known or unknown, that relate to any interactions with, or acts or omission of, the Services and Trackin Network Ltd.
+- You hereby irrevocably and unconditionally release and forever discharge TRACKIN NETWORK LTD from any and all claims, demands, and rights of action, whether now known or unknown, that relate to any interactions with, or acts or omission of, the Services and Trackin Network Ltd.
 
-4. IF YOU ARE A CALIFORNIA RESIDENT, YOU HEREBY WAIVE CALIFORNIA CIVIL CODE SECTION 1542 IN CONNECTION WITH THE FOREGOING, WHICH STATES: "A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM OR HER MUST HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR."
+- IF YOU ARE A CALIFORNIA RESIDENT, YOU HEREBY WAIVE CALIFORNIA CIVIL CODE SECTION 1542 IN CONNECTION WITH THE FOREGOING, WHICH STATES: "A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM OR HER MUST HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR."
 
 ### 26. Limitation of Liability
 
-1. THE LAWS OF CERTAIN JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LEGAL WARRANTIES, CONDITIONS OR REPRESENTATIONS, INCLUDING LIMITATIONS OR EXCLUSIONS OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE FOLLOWING EXCLUSIONS OR LIMITATIONS IN THESE TERMS (INCLUDING THE FOLLOWING LIMITATIONS OF LIABILITY) MAY NOT APPLY AND YOU MAY HAVE ADDITIONAL RIGHTS.
+- THE LAWS OF CERTAIN JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LEGAL WARRANTIES, CONDITIONS OR REPRESENTATIONS, INCLUDING LIMITATIONS OR EXCLUSIONS OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE FOLLOWING EXCLUSIONS OR LIMITATIONS IN THESE TERMS (INCLUDING THE FOLLOWING LIMITATIONS OF LIABILITY) MAY NOT APPLY AND YOU MAY HAVE ADDITIONAL RIGHTS.
 
-2. IN NO EVENT WILL TRACKIN NETWORK LTD BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY LOST PROFIT OR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES ARISING FROM THIS AGREEMENT, THE SITES, PRODUCTS OR THIRD PARTY SITES AND PRODUCTS, EVEN IF TRACKIN NETWORK LTD HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. ACCESS TO, AND USE OF, THE SITES, PRODUCTS OR THIRD PARTY SITES AND PRODUCTS ARE AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR MOBILE DEVICE OR LOSS OF DATA RESULTING THEREFROM. NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, TRACKIN NETWORK LTD LIABILITY TO YOU FOR ANY DAMAGES ARISING FROM OR RELATED TO THIS AGREEMENT, THE SITES AND PRODUCTS (FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM OF THE ACTION), WILL AT ALL TIMES BE LIMITED TO THE GREATER OF: (A) TEN BRITISH POUNDS (£10) OR (B) AMOUNTS YOU HAVE PAID TO US OUTSIDE OF GEMS WHICH CAN BE REDEEMED FOR GIFT CARDS IN THE PRIOR 12 MONTHS (IF ANY). IN NO EVENT WILL TRACKIN NETWORK SUPPLIERS HAVE ANY LIABILITY ARISING OUT OF OR IN ANY WAY CONNECTED TO THIS AGREEMENT. SOME JURISDICTIONS DO NOT ALLOW SOME OF THE LIMITATIONS OR EXCLUSIONS OF LIABILITY FOR DAMAGES DESCRIBED ABOVE, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU AND YOU MAY ALSO HAVE OTHER LEGAL RIGHTS THAT VARY FROM JURISDICTION TO JURISDICTION.
+- IN NO EVENT WILL TRACKIN NETWORK LTD BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY LOST PROFIT OR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES ARISING FROM THIS AGREEMENT, THE SITES, PRODUCTS OR THIRD PARTY SITES AND PRODUCTS, EVEN IF TRACKIN NETWORK LTD HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. ACCESS TO, AND USE OF, THE SITES, PRODUCTS OR THIRD PARTY SITES AND PRODUCTS ARE AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR MOBILE DEVICE OR LOSS OF DATA RESULTING THEREFROM. NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, TRACKIN NETWORK LTD LIABILITY TO YOU FOR ANY DAMAGES ARISING FROM OR RELATED TO THIS AGREEMENT, THE SITES AND PRODUCTS (FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM OF THE ACTION), WILL AT ALL TIMES BE LIMITED TO THE GREATER OF: (A) TEN BRITISH POUNDS (£10) OR (B) AMOUNTS YOU HAVE PAID TO US OUTSIDE OF GEMS WHICH CAN BE REDEEMED FOR GIFT CARDS IN THE PRIOR 12 MONTHS (IF ANY). IN NO EVENT WILL TRACKIN NETWORK SUPPLIERS HAVE ANY LIABILITY ARISING OUT OF OR IN ANY WAY CONNECTED TO THIS AGREEMENT. SOME JURISDICTIONS DO NOT ALLOW SOME OF THE LIMITATIONS OR EXCLUSIONS OF LIABILITY FOR DAMAGES DESCRIBED ABOVE, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU AND YOU MAY ALSO HAVE OTHER LEGAL RIGHTS THAT VARY FROM JURISDICTION TO JURISDICTION.
 
 ### 27. Choice of Law & Exclusive Venue
 
@@ -188,11 +188,11 @@ The Mandatory Arbitration provisions of this Terms and Conditions agreement only
 
 ### 29. Mandatory Arbitration
 
-a. Any dispute or claim between you and us relating to or arising out of the Services or the Terms will be referred to and determined exclusively through binding confidential arbitration conducted in the United Kingdom on England, Scotland, Northern Ireland or Wales unless otherwise agreed to by Trackin Network Ltd.
+  a. Any dispute or claim between you and us relating to or arising out of the Services or the Terms will be referred to and determined exclusively through binding confidential arbitration conducted in the United Kingdom on England, Scotland, Northern Ireland or Wales unless otherwise agreed to by Trackin Network Ltd.
 
-b. The arbitration will be held on an individual basis, before a single arbitrator and in accordance with the applicable laws of the United Kingdom.BY ENTERING INTO THIS AGREEMENT, YOU ARE GIVING UP YOUR RIGHT TO GO TO COURT TO ASSERT ANY CLAIMS.You also Agree that you will be responsible for any costs attributable to attending any arbitration hearings including but not exclusively in regards to any travel, accommodation, loss of earnings that could be accrued in the course of attending any such arbitration proceedings.
+  b. The arbitration will be held on an individual basis, before a single arbitrator and in accordance with the applicable laws of the United Kingdom.BY ENTERING INTO THIS AGREEMENT, YOU ARE GIVING UP YOUR RIGHT TO GO TO COURT TO ASSERT ANY CLAIMS.You also Agree that you will be responsible for any costs attributable to attending any arbitration hearings including but not exclusively in regards to any travel, accommodation, loss of earnings that could be accrued in the course of attending any such arbitration proceedings.
 
-c. In addition you agree to share the costs of any arbitration proceedings with Trackin Network Ltd with the Arbiter having the right to determine that the costs of the proceedings themselves excluding any associated costs listed before above in number 29b. may be fully attributed to either party.
+  c. In addition you agree to share the costs of any arbitration proceedings with Trackin Network Ltd with the Arbiter having the right to determine that the costs of the proceedings themselves excluding any associated costs listed before above in number 29b. may be fully attributed to either party.
 
 ### 30. Jury Trial Waiver
 
@@ -212,37 +212,37 @@ If any part of these Terms is found to be invalid, illegal or unenforceable for 
 
 ### 34. Final Terms
 
-a. All rights not granted to you are reserved by Trackin Network Ltd and all intellectual property in the Services is owned or licensed by us.
+  a. All rights not granted to you are reserved by Trackin Network Ltd and all intellectual property in the Services is owned or licensed by us.
 
-b. Any reference in these terms to applicable law means the applicable laws, by-laws, regulations, ordinance or rules of any governmental or regulatory authority.
+  b. Any reference in these terms to applicable law means the applicable laws, by-laws, regulations, ordinance or rules of any governmental or regulatory authority.
 
-c. These Terms are the final, complete and exclusive agreement between you and us and supercede all prior agreements between us. Except where prohibited by applicable law, we reserve the right to change these Terms at any time without notice.  Your continued access to and use of the Services after changes to these Terms indicates your acceptance of such changes. It is your responsibility to review these Terms regularly.
+  c. These Terms are the final, complete and exclusive agreement between you and us and supercede all prior agreements between us. Except where prohibited by applicable law, we reserve the right to change these Terms at any time without notice.  Your continued access to and use of the Services after changes to these Terms indicates your acceptance of such changes. It is your responsibility to review these Terms regularly.
 
-d. If we don't enforce a part of these Terms, it will not be considered a waiver. You can't transfer your rights or obligations under this agreement without our consent. The word "including" means including without limitation. We may assign these Terms in connection with a merger, acquisition, reorganization or sale of all or substantially all of its assets, or bankruptcy or other operation of law, without your consent.
+  d. If we don't enforce a part of these Terms, it will not be considered a waiver. You can't transfer your rights or obligations under this agreement without our consent. The word "including" means including without limitation. We may assign these Terms in connection with a merger, acquisition, reorganization or sale of all or substantially all of its assets, or bankruptcy or other operation of law, without your consent.
 
-e. If we need to contact you about these Terms, you: (1) agree to receive electronic messages from us; and (2) agree that all terms and conditions, agreements, notices, disclosures, and other messages we send to you electronically satisfy all legal requirements as if they were in writing. We agree that these Terms and all related documents are in English.
+  e. If we need to contact you about these Terms, you: (1) agree to receive electronic messages from us; and (2) agree that all terms and conditions, agreements, notices, disclosures, and other messages we send to you electronically satisfy all legal requirements as if they were in writing. We agree that these Terms and all related documents are in English.
 
 ### 35. Apple App Store Additional License Terms
 
-a. If the Trackin application is provided to you through the Apple Inc. (Apple Inc. together with all of its affiliates, "Apple") App Store, the following terms and conditions apply to you in addition to all the other terms and conditions of these Terms:
+  a. If the Trackin application is provided to you through the Apple Inc. (Apple Inc. together with all of its affiliates, "Apple") App Store, the following terms and conditions apply to you in addition to all the other terms and conditions of these Terms:
 
-b. The parties acknowledge these Terms are concluded between the parties, and not with Apple. The responsibility for the Trackin application and content thereof is governed by these Terms.
+  b. The parties acknowledge these Terms are concluded between the parties, and not with Apple. The responsibility for the Trackin application and content thereof is governed by these Terms.
 
-c. Notwithstanding anything to the contrary hereunder, you may use the Trackin application only on an iPhone or iPod touch that you own or control.
+  c. Notwithstanding anything to the contrary hereunder, you may use the Trackin application only on an iPhone or iPod touch that you own or control.
 
-d. You an  d we acknowledge that Apple has no obligation to furnish any maintenance or support services with respect to the Trackin application.
+  d. You and we acknowledge that Apple has no obligation to furnish any maintenance or support services with respect to the Trackin application.
 
-e. In the event of any failure of the Trackin application to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price(if any) for the Trackin application (if any) to you. Except for the foregoing, to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the Kinit application, and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be governed by these Terms.
+  e. In the event of any failure of the Trackin application to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price(if any) for the Trackin application (if any) to you. Except for the foregoing, to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the Kinit application, and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be governed by these Terms.
 
-f. Any claim in connection with the Trackin application related to product liability, a failure to conform to applicable legal or regulatory requirements, or claims under consumer protection or similar legislation is governed by these Terms, and Apple is not responsible for such claim.
+  f. Any claim in connection with the Trackin application related to product liability, a failure to conform to applicable legal or regulatory requirements, or claims under consumer protection or similar legislation is governed by these Terms, and Apple is not responsible for such claim.
 
-g. Any third party claim that the Trackin application or your possession and use of the Trackin application infringes that third party's intellectual property rights will be governed by these Terms, and Apple will not be responsible for the investigation, defense, settlement and discharge of such intellectual property infringement claim.
+  g. Any third party claim that the Trackin application or your possession and use of the Trackin application infringes that third party's intellectual property rights will be governed by these Terms, and Apple will not be responsible for the investigation, defense, settlement and discharge of such intellectual property infringement claim.
 
-h. You represent and warrant that you are not: (i) located in any country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a "terrorist supporting" country; or (ii) listed on any U.S. Government list of prohibited or restricted parties.
+  h. You represent and warrant that you are not: (i) located in any country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a "terrorist supporting" country; or (ii) listed on any U.S. Government list of prohibited or restricted parties.
 
-i. Apple is a third party beneficiary to these Terms and may enforce these Terms against you.
+  i. Apple is a third party beneficiary to these Terms and may enforce these Terms against you.
 
-j. If any of the terms and conditions in these Terms are inconsistent or in conflict with Apple's applicable instructions for Minimum Terms for Developer's End User License Agreement (the current version as of the date these Terms was last updated is located at: <http://www.apple.com/legal/internet-services/itunes/appstore/dev/minterms/)> or the App Store Terms of Service (the current version as of the date these Terms was last updated is located at: <http://www.apple.com/legal/internet-services/itunes/ca/terms.html),> the terms and conditions of Apple's instructions for Minimum Terms for Developer's End User License Agreement or App Store Terms of Service, as applicable, will apply to the extent of such inconsistency or conflict.
+  j. If any of the terms and conditions in these Terms are inconsistent or in conflict with Apple's applicable instructions for Minimum Terms for Developer's End User License Agreement (the current version as of the date these Terms was last updated is located at: <http://www.apple.com/legal/internet-services/itunes/appstore/dev/minterms/)> or the App Store Terms of Service (the current version as of the date these Terms was last updated is located at: <http://www.apple.com/legal/internet-services/itunes/ca/terms.html),> the terms and conditions of Apple's instructions for Minimum Terms for Developer's End User License Agreement or App Store Terms of Service, as applicable, will apply to the extent of such inconsistency or conflict.
 
 ### 36. Google Play
 
