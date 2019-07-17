@@ -2,15 +2,15 @@
 
 ## Version 1.0 06 July 2019 (GDPR COMPLIANT)
 
-- Thank you for signing up to use the Trackin application (the "app", "Platform", "Website", "Trackin Application" or the "Trackin Platform"), and related products and services (together, we'll call these the "Services") of Trackin Network Ltd. ("Trackin Network Ltd", "Trackin", "us", "we" or "our"), and any of our affiliates with authorized links to this Agreement. The term "you" refers to the natural person accessing or otherwise using our Services.
+1. Thank you for signing up to use the Trackin application (the "app", "Platform", "Website", "Trackin Application" or the "Trackin Platform"), and related products and services (together, we'll call these the "Services") of Trackin Network Ltd. ("Trackin Network Ltd", "Trackin", "us", "we" or "our"), and any of our affiliates with authorized links to this Agreement. The term "you" refers to the natural person accessing or otherwise using our Services.
 
-- This Terms of Service Agreement (or "Terms" for short) describes the rules of our relationship with you and is a legal agreement, so please read it carefully.
+2. This Terms of Service Agreement (or "Terms" for short) describes the rules of our relationship with you and is a legal agreement, so please read it carefully.
 
-3.  Trackin can be used across multiple platforms including website, mobile app and consoles.
+3. Trackin can be used across multiple platforms including website, mobile app and consoles.
 
-4.  By using the app or website or platform you agree to be bound by the terms of this agreement. Use includes using the app or website in any capacity, including as an unregistered user, downloading the app, using the website and registering as a Trackin user. By using Trackin as described or in any other manner that constitutes use of the platform you represent that you have read, understand, and agree to be bound by these terms. If you do not agree with these terms, please do not use these services.
+4. By using the app or website or platform you agree to be bound by the terms of this agreement. Use includes using the app or website in any capacity, including as an unregistered user, downloading the app, using the website and registering as a Trackin user. By using Trackin as described or in any other manner that constitutes use of the platform you represent that you have read, understand, and agree to be bound by these terms. If you do not agree with these terms, please do not use these services.
 
-5.  Arbitration Agreement
+5. Arbitration Agreement
 
 We wanted to let you know that these terms include an arbitration agreement( also known as alternative dispute resolution agreement) which will, with limited exceptions, require disputes between us to be submitted to binding and final arbitration. unless you opt out of the arbitration agreement: (1) you will only be permitted to pursue claims and seek relief against us on an individual basis, not as a plaintiff or class member in any class, collective or representative action or proceeding; and (2) you are waiving your right to seek relief in a court of law and to have a jury trial on your claims. We also wanted to let you know that the Trackin platform contains features and functionalities that may provide you with access to opportunities to earn and spend kin. You acknowledge and agree that some of these features and functionalities are still under development and have been released to you as a user with full disclosure that at these early stages of development you may lose access to your wallet and any kin that you have earned.
 
