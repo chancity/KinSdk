@@ -32,7 +32,7 @@ b. The amount of Kin required to claim a Daily Gem Supercharge
 
 c. The number of Gems in each Daily Supercharge
 
-9. Trackin Shared Revenue Model
+### 9. Trackin Shared Revenue Model
 
 The Trackin business model of rewarding users for engagements operates on a shared revenue basis where revenue received from advertisers or other partners is shared with our users via Kin payments and Gem boosts and any other means we may use in the future.
 
