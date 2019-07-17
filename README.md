@@ -26,11 +26,11 @@ Gems are the rewards points of the Trackin Platform, they are non-refundable, no
 
 Trackin Network provides a Daily Gem Supercharge whereby a specified amount of Kin can be supercharged to provide a higher amount of Gems than the Kin is worth on the open market. Supercharge provides the user with a subsidised value of Kin relative to the Gems paid out. Supercharge helps users get to the goal of 500 Gems = $5 gift card quicker. Both the threshold amount of Kin and the number Gems paid out are subject to change at the complete discretion of Trackin Network Ltd. Trackin is able to pay out Kin based on the income received from partners including Advertisers and Game Providers. A significant portion of this variable income is shared with users hence Trackin reserves the right to cease or pause rewarding users entirely or adjusting:
 
-a) the amount of Kin paid for in game achievements,
+1. the amount of Kin paid for in game achievements,
 
-b) The amount of Kin required to claim a Daily Gem Supercharge
+2. The amount of Kin required to claim a Daily Gem Supercharge
 
-c) The number of Gems in each Daily Supercharge
+3. The number of Gems in each Daily Supercharge
 
 ### 9. Trackin Shared Revenue Model
 
