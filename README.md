@@ -243,7 +243,7 @@ If any part of these Terms is found to be invalid, illegal or unenforceable for 
 
   i. Apple is a third party beneficiary to these Terms and may enforce these Terms against you.
 
-  j. If any of the terms and conditions in these Terms are inconsistent or in conflict with Apple's applicable instructions for Minimum Terms for Developer's End User License Agreement (the current version as of the date these Terms was last updated is located at: [minterms](http://www.apple.com/legal/internet-services/itunes/appstore/dev/minterms/) or the App Store [Terms of Service (the current version as of the date these Terms was last updated is located at:](http://www.apple.com/legal/internet-services/itunes/ca/terms.html), the terms and conditions of Apple's instructions for Minimum Terms for Developer's End User License Agreement or App Store Terms of Service, as applicable, will apply to the extent of such inconsistency or conflict.
+  j. If any of the terms and conditions in these Terms are inconsistent or in conflict with Apple's applicable instructions for Minimum Terms for Developer's End User License Agreement (the current version as of the date these Terms was last updated is located at: [minterms](http://www.apple.com/legal/internet-services/itunes/appstore/dev/minterms/) or the App Store Terms of Service (the current version as of the date these Terms was last updated is located at: [terms](http://www.apple.com/legal/internet-services/itunes/ca/terms.html), the terms and conditions of Apple's instructions for Minimum Terms for Developer's End User License Agreement or App Store Terms of Service, as applicable, will apply to the extent of such inconsistency or conflict.
 
 ### 36. Google Play
 
