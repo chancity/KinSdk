@@ -247,11 +247,11 @@ If any part of these Terms is found to be invalid, illegal or unenforceable for 
 
 ### 36. Google Play
 
-- If the Trackin application is provided to you through the Google Inc. (Google Inc. together with all of its affiliates, "Google") Google    Play, the following terms and conditions apply to you in addition to all the other terms and conditions of these Terms:
+#### If the Trackin application is provided to you through the Google Inc. (Google Inc. together with all of its affiliates, "Google") Google  Play, the following terms and conditions apply to you in addition to all the other terms and conditions of these Terms:
 
 - You acknowledge that Google is not responsible for providing support services for the Trackin application.
 
-- If any of the terms and conditions in these Terms are inconsistent or in conflict with the Google Play Developer Distribution Agreement  (the current version as of the date these Terms was last updated is located at: [terms](https://play.google.com/about/developer-distribution-agreement.html), the terms and conditions of Google's Google Play Developer Distribution Agreement will apply to the extent of such inconsistency or conflict.
+- If any of the terms and conditions in these Terms are inconsistent or in conflict with the Google Play Developer Distribution Agreement  (the current version as of the date these Terms was last updated is located at: [terms](https://play.google.com/about/developer-distribution-agreement.html), the terms and conditions of Google's Google Play Developer Distribution Agreement will apply to the extent of such inconsistency or conflict.
 
 ## Contact Us
 
