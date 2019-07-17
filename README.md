@@ -68,21 +68,21 @@ Your privacy matters to us. You can learn more about how we handle your informat
 
 ### 15. Limitations on Use
 
-1. You agree not to use the Services to:
+#### You agree not to use the Services to:
 
-2. upload or distribute any computer viruses, worms, malicious code, or any software intended to damage or alter a computer system or data;
+- upload or distribute any computer viruses, worms, malicious code, or any software intended to damage or alter a computer system or data;
 
-3. collect information or data regarding other users, including email addresses or usernames, without their consent (e.g. using harvesting bots, robots, spiders, or scrapers);
+- collect information or data regarding other users, including email addresses or usernames, without their consent (e.g. using harvesting bots, robots, spiders, or scrapers);
 
-4. disable, overly burden, impair, or otherwise interfere with servers or networks connected to the Services (e.g. a denial of service attack)
+- disable, overly burden, impair, or otherwise interfere with servers or networks connected to the Services (e.g. a denial of service attack)
 
-5. attempt to gain unauthorized access to the Services or servers or networks connected to the Services (e.g. through password mining);
+- attempt to gain unauthorized access to the Services or servers or networks connected to the Services (e.g. through password mining);
 
-6. interfere with another user's use and enjoyment of the Services;
+- interfere with another user's use and enjoyment of the Services;
 
-7. attempt to earn, spend or transfer Kin in a manner that is not intended by the app; or
+- attempt to earn, spend or transfer Kin in a manner that is not intended by the app; or
 
-8. do anything or perform any activity that violates any applicable laws.
+- do anything or perform any activity that violates any applicable laws.
 
 ### 16.  Your Account
 
